@@ -4,6 +4,12 @@
   "type": "library",
   "license": "MIT",
   "homepage": "https://normbill.com",
+  "authors": [
+    {
+      "name": "VIBOA UG (haftungsbeschränkt)",
+      "homepage": "https://normbill.com"
+    }
+  ],
   "keywords": [
     "xrechnung",
     "zugferd",
@@ -35,7 +41,9 @@
     }
   },
   "support": {
-    "docs": "https://normbill.com/docs"
+    "docs": "https://normbill.com/docs",
+    "source": "https://github.com/MichaelGorski/xrechnung-php",
+    "issues": "mailto:support@normbill.com"
   },
   "scripts": {
     "test": "phpunit"
