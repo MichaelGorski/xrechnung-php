@@ -1,0 +1,4 @@
+# Keep dist installs lean: composer archives exclude test/dev files.
+/tests            export-ignore
+/phpunit.xml.dist export-ignore
+/.gitattributes   export-ignore
