@@ -43,7 +43,7 @@
   "support": {
     "docs": "https://normbill.com/docs",
     "source": "https://github.com/MichaelGorski/xrechnung-php",
-    "issues": "mailto:support@normbill.com"
+    "issues": "https://normbill.com"
   },
   "scripts": {
     "test": "phpunit"
